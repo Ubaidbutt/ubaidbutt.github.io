@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Ubaid Butt Writes
+name: Ubaid R Butt
 
 # Name of the author
-author: Ubaid Butt
+author: Ubaid R Butt
 
 # Short bio or description (displayed in the header)
 description: A software engineer who likes to write
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/picture.png
 
 #
 # Flags below are optional
@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+  rss: 
   twitter: ubaidrbutt
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
