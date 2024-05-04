@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Hello there, I am Ubaid, a 27 years old software engineer from Pakistan currently living and working in the Netherlands. Even though I would like to think that my speaking skills are much better than my writing, I would still have a blog like this than to have a YouTube channel. This blog is my place to put my thoughts out mainly related to technology but also related to life and experiences in general.
-
-You can reach out to me if you want to know something about life in the Netherlands, job opportunities here, career advice if you are starting your career or just getting into college/university. If you live in the Netherlands, drop me a message and we can have a cup of coffee some day.
+## Introduction
+I am Ubaid, a 27-year-old software engineer from Pakistan currently living and working in the Netherlands. I don't have many hobbies apart from ranting on Twitter about politics, reading books on geopolitics and technology, watching movies or series, and being lazy most of the time. I do get inspired and motivated every other week to become more productive, go to the gym, gain more knowledge, and start my own business. I try to do one or more of these when I have the motivation burst but still fighting to get more consistent in my efforts.
