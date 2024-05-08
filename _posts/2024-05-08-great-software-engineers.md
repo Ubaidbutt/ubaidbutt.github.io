@@ -21,7 +21,7 @@ All the good engineers I have seen were never showoffs. In fact, they were the c
 Great software engineers are also great people, and you can see that when you work with them in a team. They are supportive, trustworthy, and empathetic as teammates and as humans. They are almost always people with zero ego, always willing to help others and push them forward. In my experience, I have seen them to be really knowledgeable about general topics, including sports, science, politics, religion, and more.
 
 
-
+## Conclusion
 I would like to mention two people I have worked with who have truly inspired me with their skills:
 
 - Mahdi Pourziaei from Fashion Cloud: He was hands down the most talented engineer I have worked with so far in my career.
