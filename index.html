@@ -39,12 +39,7 @@ layout: default
       {% endif %}
     {% endfor %}
 
-{% if paginator.next_page %}
-        <script>
-            console.log("Next page value:", "{{ paginator.next_page }}");
-            console.log("Next page URL: ", "{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}");
-        </script>
-    {% endif %}
+    {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
     {% else %}
       <span>Next &raquo;</span>
