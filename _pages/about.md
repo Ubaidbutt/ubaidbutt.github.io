@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Ubaid Butt, and I am the founder of this small blog that you are currently visiting.
 
-I’m a software engineer by profession, but I love economics, geopolitics, a bit of history, and social sciences. Yes, my interests are all over the place, but that’s how it is. I like to read books and also love writing, as you can see from this blog. 😄
+I’m a software engineer by profession, but I love economics, geopolitics, a bit of history, and social sciences. Yes, my interests are all over the place, but who said we have to be limited in our interests? I like to read books and also love writing, as you can see from this blog. 😄
 
 I am 27 years old, currently living and working in the Netherlands, originally from a small town called Sialkot in Pakistan. An interesting fact about my small city is that almost 70% of the footballs in the entire world are made and exported from Sialkot. Read more about this [here](https://www.businessinsider.com/most-of-the-worlds-soccer-balls-are-made-in-pakistan-2022-12?international=true&r=US&IR=T)
 
@@ -18,10 +18,10 @@ If you have a question or you want to talk or have advice or anything, feel free
 
 ## See me in pictures
 An old picture from somewhere in 2016:
-![Old me](../images/the-young-me.jpeg)
+![Old me](https://ubaidrbutt.com/images/the-young-me.jpeg)
 
 First picture in the Netherlands:
-![In NL](../images/first-picture-in-nl.jpeg)
+![In NL](https://ubaidrbutt.com/images/first-picture-in-nl.jpeg)
 
 A picture from my recent trip to Frankfurt:
-![recent](../images/some-picture.jpeg)
+![recent](https://ubaidrbutt.com/images/some-picture.jpeg)
