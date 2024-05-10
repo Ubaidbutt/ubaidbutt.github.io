@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding establishment in Pakistan?"
-categories: [politics]
+categories: [politics, pakistan]
 ---
 
 We often hear the word "establishment" in Pakistani politics, usually linked to the military and intelligence agencies. But is that all it means? Not really. The idea of the establishment is more complicated. While the military is a big part of it, there are other players too. Think of it as a social phenomenon.
