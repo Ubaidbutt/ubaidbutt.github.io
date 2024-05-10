@@ -16,7 +16,7 @@ This blog is a place for me to dump my thoughts about all the topics I feel like
 
 If you have a question or you want to talk or have advice or anything, feel free to send me an email or message me on any of my social media handles. I wish you well.
 
-## See me in pictures
+<!-- ## See me in pictures
 An old picture from somewhere in 2016:
 ![Old me](https://ubaidrbutt.com/images/the-young-me.jpeg)
 
@@ -24,4 +24,4 @@ First picture in the Netherlands:
 ![In NL](https://ubaidrbutt.com/images/first-picture-in-nl.jpeg)
 
 A picture from my recent trip to Frankfurt:
-![recent](https://ubaidrbutt.com/images/some-picture.jpeg)
+![recent](https://ubaidrbutt.com/images/some-picture.jpeg) -->
