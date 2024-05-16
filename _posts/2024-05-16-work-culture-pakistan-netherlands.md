@@ -17,7 +17,7 @@ This was my first encounter that made me realise the huge difference between emp
 
 Every company in the Netherlands is obliged to give minimum 25 vacation days per year even though most companies give 28. Every employee is paid their full salary for the first year when they are sick and 75% of their salary for the second year. All companies offer paternity and maternity leaves. For mothers, pregnancy and maternity leaves are minimum 4 months. There are good number of paternity leaves available for the father too. Most of the companies offer compassionate leaves in case of death of a closed one.
 
-## ork pressure / Over time:
+## Work pressure / Over time:
 I have worked for three years so far in the Netherlands, in three different companies, and not once have I worked after 5 PM or on the weekend. Compared to Pakistan, where I was almost always working late hours to compensate for clients in the US, and working on the weekend was also a common occurrence every other month.
 
 People in the Netherlands don’t easily accept working late hours, so even if you offer them extra money, they will not agree to work on the weekend because they value their personal time greatly. Companies are obligated to pay employees overtime if they want them to work late hours or on the weekend, and the rate for working on the weekend is almost 1.5 to 2.0 times the normal rate for employees.
