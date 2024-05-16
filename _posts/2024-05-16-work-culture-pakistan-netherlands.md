@@ -26,4 +26,4 @@ People in the Netherlands don’t easily accept working late hours, so even if y
 ## Conclusive notes:
 If you come from a country like Pakistan or India, the work culture here will be much better because you are accustomed to a very high-stress, employer-oriented culture with little to no regard for employee well-being. The Netherlands is completely different, where employee rights and their well-being are paramount, and government laws ensure that.
 
-P.S This does not mean that the Netherlands don’t have companies with toxic work culture but my comparison is first based on my personal experience and also gives you a general idea. 
+P.S. This does not mean that the Netherlands doesn’t have companies with toxic work cultures or that the grass is only greener on this side of the world. You can definitely come across companies and employers who don't match everything I have said above, and that's perfectly alright. However, I do believe that my comparison depicts the true picture when viewed from a generic standpoint.
