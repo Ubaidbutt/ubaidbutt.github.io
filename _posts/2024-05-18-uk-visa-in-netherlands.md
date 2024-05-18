@@ -39,7 +39,7 @@ Once you have booked your appointment, you will see an overview like the followi
 ![](/images/tls-overview.png)
 If you chose a self-service, there will be an extra option called "upload" after the "track" option. I chose self-service hence you don't see that for my application.
 
-### Uplload your scanned documents
+### Upload your scanned documents
 You can always book premium slots and add extra services by paying additional fees. However, if you choose the bare minimum self-service, you will need to pay around 90 euros. Once you have booked your appointment and paid, you will need to upload your scanned documents on the portal before your appointment.
 
 Your documents include mainly your passport and residence permit, as well as all the supporting documents such as salary slips, bank statements, employment contract, and sponsorship letter. The rule is to provide as many documents as you can to help them make a positive decision on your visa application.
@@ -53,4 +53,6 @@ The TLS office will take your biometrics and keep your passport. They will send 
 During the TLS appointment booking process, you can take extra services by paying an extra fee. For example, you can book an appointment for assisted services, which means that you won’t have to upload your documents yourself on the portal, but you can take your documents with you on the day of the appointment, and they will scan and upload them for you. You can also choose not to give them your passport and instead keep it with you. Once your visa is approved, you can go and have it stamped. Alternatively, you can give them your passport but have them courier it back to your address when the visa is approved instead of going and collecting it yourself. All these services, of course, come at an extra cost, which you will be able to see on the TLS portal when you are booking your appointment.
 
 ## Conclusion
+If you are reading it a bit late in the future, the link to the UK portal might change, visa fee may change or the TLS website experience may change but the overall process and information will still be valid.
+
 Good luck applying for the visa!
