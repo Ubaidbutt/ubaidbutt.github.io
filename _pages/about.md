@@ -18,13 +18,13 @@ If you have a question or you want to talk or have advice or anything, feel free
 
 ## See me in pictures
 A childhood picture (I am the younger one 🙈):
-![childhood](/images/childhood.jpeg?width=600&height=400&crop=face)
+![childhood](/images/childhood.jpeg?width=400&height=200&crop=face)
 
 An old picture from somewhere in 2016 during my university:
-![university](/images/university-time.jpeg?width=600&height=400&crop=face)
+![university](/images/university-time.jpeg?width=400&height=200&crop=face)
 
 First picture in the Netherlands:
-![In NL](/images/nl-running.jpeg?width=600&height=400&crop=face)
+![In NL](/images/nl-running.jpeg?width=400&height=200&crop=face)
 
 A picture from my recent trip to Frankfurt:
-![recent](/images/some-picture.jpeg?width=600&height=400&crop=face)
+![recent](/images/some-picture.jpeg?width=400&height=200&crop=face)
