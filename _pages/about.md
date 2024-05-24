@@ -19,8 +19,8 @@ If you have a question or you want to talk or have advice or anything, feel free
 ## See me in pictures
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="/images/childhood.jpeg?width=400&height=200&crop=face" alt="childhood" style="width: 23%;" />
-    <img src="/images/university-time.jpeg?width=400&height=200&crop=face" alt="university" style="width: 23%;" />
-    <img src="/images/nl-running.jpeg?width=400&height=200&crop=face" alt="netherlands" style="width: 23%;" />
-    <img src="/images/some-picture.jpeg?width=400&height=200&crop=face" alt="Recent" style="width: 23%;" />
+    <img src="/images/childhood.jpeg?width=200&height=100&crop=face" alt="childhood" style="width: 30%;" />
+    <img src="/images/university-time.jpeg?width=200&height=100&crop=face" alt="university" style="width: 30%;" />
+    <img src="/images/nl-running.jpeg?width=200&height=100&crop=face" alt="netherlands" style="width: 30%;" />
+    <img src="/images/some-picture.jpeg?width=200&height=100&crop=face" alt="Recent" style="width: 30%;" />
 </div>
