@@ -21,7 +21,7 @@ A childhood picture (I am the younger one 🙈):
 ![childhood](/images/childhood.jpeg)
 
 An old picture from somewhere in 2016 during my university:
-![university](/images/university.jpeg)
+![university](/images/university-time.jpeg)
 
 First picture in the Netherlands:
 ![In NL](/images/nl-running.jpeg)
