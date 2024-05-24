@@ -4,7 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-## Summary
 Experienced software engineer with more than 6 years of work experience working in the IT industry.
 
 ## Tooling
