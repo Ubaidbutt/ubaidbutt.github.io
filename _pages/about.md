@@ -17,14 +17,7 @@ This blog is a place for me to dump my thoughts about all the topics I feel like
 If you have a question or you want to talk or have advice or anything, feel free to send me an email or message me on any of my social media handles. I wish you well.
 
 ## See me in pictures
-A childhood picture (I am the younger one 🙈):
-![childhood](/images/childhood.jpeg?width=400&height=200&crop=face)
-
-An old picture from somewhere in 2016 during my university:
-![university](/images/university-time.jpeg?width=400&height=200&crop=face)
-
-First picture in the Netherlands:
-![In NL](/images/nl-running.jpeg?width=400&height=200&crop=face)
-
-A picture from my recent trip to Frankfurt:
-![recent](/images/some-picture.jpeg?width=400&height=200&crop=face)
+![childhood](/images/childhood.jpeg?width=100&height=50&crop=face)
+![university](/images/university-time.jpeg?width=100&height=50&crop=face)
+![In NL](/images/nl-running.jpeg?width=100&height=50&crop=face)
+![recent](/images/some-picture.jpeg?width=100&height=50&crop=face)
