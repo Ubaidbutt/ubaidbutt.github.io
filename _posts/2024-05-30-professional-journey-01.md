@@ -23,10 +23,9 @@ I once checked my sent email messages and realized that I had sent more than 200
     <img src="/images/linkedin-message-2.png" width="350px" />
 </div>
 
+<h2 style="text-align: left;">Destiny and job</h2>
 After considerable effort in improving my CV, learning new things, and enhancing my communication skills, I finally got an interview call and subsequently an offer letter from the Pakistan Air Force as a graduate software engineer. The offer letter was a huge deal because, first, I got a job and I desperately needed it; secondly, it was in Islamabad; and thirdly, it was for the Pakistan Air Force. If you come from Pakistan, you know how big of a flex it is to work for our beloved armed forces. (I didn’t think like that)
 
-
-<h2 style="text-align: left;">Destiny and job</h2>
 The salary, however, was 35k/month, which is hardly enough to make ends meet while living in Islamabad and supporting my family back home. Still, I was happy because at least I had a job in the city I wanted, surrounded by people I loved. The joining date was months away because the background check and bureaucratic process were lengthy, so I kept applying for new positions. This led to an interview call from a startup in Lahore. After a few initial interviews, they invited me for an in-person interview in Lahore. I never wanted to change cities and work in Lahore, but I’m not sure why I still paid 2000 PKR and traveled 5 hours one way for that one interview with that company.
 
 When they asked me about my salary expectations, I requested 50k thinking that I had asked for a very high amount and would most likely be rejected 😂. After a few days, I received an offer from the company with the salary I had requested. By the way, my manager later told me after I joined that I had asked for a much lower salary because they were willing to offer up to 70k if I had asked for it.
