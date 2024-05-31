@@ -16,10 +16,5 @@ This blog is a place for me to dump my thoughts about all the topics I feel like
 
 If you have a question or you want to talk or have advice or anything, feel free to send me an email or message me on any of my social media handles. I wish you well.
 
-## See me in pictures
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="/images/childhood.jpeg?width=400&height=200&crop=face" alt="childhood" style="width: 50%;" />
-    <img src="/images/university-time.jpeg?width=400&height=200&crop=face" alt="university" style="width: 50%;" />
-    <img src="/images/nl-running.jpeg?width=400&height=200&crop=face" alt="netherlands" style="width: 50%;" />
-    <img src="/images/some-picture.jpeg?width=400&height=200&crop=face" alt="Recent" style="width: 50%;" />
-</div>
+
+If you have read the blog and have some feedback or a message that you want to send anonymously, feel free to use this link: https://tellonym.me/ubaidrbutt
