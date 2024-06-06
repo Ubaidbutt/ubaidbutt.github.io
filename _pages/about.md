@@ -15,6 +15,3 @@ The quick summary of my life is that I lived 17 years of my life in Sialkot and 
 This blog is a place for me to dump my thoughts about all the topics I feel like sharing, including but not limited to career, software engineering, politics, social issues, travel, and religion.
 
 If you have a question or you want to talk or have advice or anything, feel free to send me an email or message me on any of my social media handles. I wish you well.
-
-
-If you have read the blog and have some feedback or a message that you want to send anonymously, feel free to use this link: https://tellonym.me/ubaidrbutt
