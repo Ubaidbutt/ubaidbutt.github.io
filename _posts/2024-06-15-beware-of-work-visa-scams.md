@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moving out of Pakistan: beware of the work visa scams"
+title: "Moving out of Pakistan: Beware of the work visa scam"
 categories: [professional, career, personal]
 ---
 
@@ -24,8 +24,8 @@ The crux of the matter is that the only legitimate work visa is the one you get 
 
 Following are some links to different skilled migration programs in different countries for you to read up:
 
-HSM visa in the Netherlands: https://business.gov.nl/regulation/employing-highly-skilled-migrants/
+Netherlands: [High skilled migrant visa](https://business.gov.nl/regulation/employing-highly-skilled-migrants/)
 
-Germany blue card: https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card
+Germany: [Blue card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 
-Australia skilled migration: https://immi.homeaffairs.gov.au/what-we-do/skilled-migration-program
+Australia: [Skilled migration program](https://immi.homeaffairs.gov.au/what-we-do/skilled-migration-program)
