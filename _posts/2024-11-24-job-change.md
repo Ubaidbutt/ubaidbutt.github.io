@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Why Behind My Goodbyes: Honest Reasons Behind My Career Changes"
+title: "The why behind my goodbyes: Honest reasons behind my career changes"
 categories: [professional, career, personal]
 ---
 
