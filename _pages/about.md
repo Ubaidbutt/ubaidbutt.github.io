@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Ubaid Butt, and I am the founder of this small blog that you are currently visiting.
+Hi, I’m Ubaid Butt, the founder of this small blog you’ve stumbled upon.
 
-I’m a software engineer by profession, but I love economics, geopolitics, a bit of history, and social sciences. Yes, my interests are all over the place, but who said we have to be limited in our interests? I like to read books and also love writing, as you can see from this blog. 😄
+By profession, I’m a software engineer, but my interests span a wide range—economics, geopolitics, history, and social sciences. Yes, I know, it’s a bit all over the place, but who says we need to limit our curiosities? I love reading books and, as you can tell from this blog, I also have a passion for writing. 😄
 
-I am 27 years old, currently living and working in the Netherlands, originally from a small town called Sialkot in Pakistan. An interesting fact about my small city is that almost 70% of the footballs in the entire world are made and exported from Sialkot. Read more about this [here](https://www.businessinsider.com/most-of-the-worlds-soccer-balls-are-made-in-pakistan-2022-12?international=true&r=US&IR=T)
+I’m 27 years old, currently living and working in the Netherlands, but I’m originally from a small town called Sialkot in Pakistan. Fun fact: about 70% of the world’s footballs are manufactured and exported from Sialkot—pretty cool, right? Read more about this [here](https://www.businessinsider.com/most-of-the-worlds-soccer-balls-are-made-in-pakistan-2022-12?international=true&r=US&IR=T)
 
-The quick summary of my life is that I lived 17 years of my life in Sialkot and then moved to the capital city, Islamabad, for my Bachelor’s in Information Technology from Quaid-e-Azam University. After spending probably the best 4 years of my life there, I moved to another big city, Lahore, for my job. After spending 3 years working there for a company, I got a lifetime opportunity from a startup in the Netherlands that sponsored me to come and work for them in Amsterdam. This is how I ended up being in the Netherlands around the end of 2021 and began my journey of exploring this part of the world.
+To sum up my journey so far: I spent the first 17 years of my life in Sialkot before moving to Islamabad to pursue a Bachelor’s in Information Technology at Quaid-e-Azam University. Those four years were some of the best of my life. After graduating, I moved to Lahore for my first job, where I spent three years. Then, in late 2021, I got a once-in-a-lifetime opportunity from a startup in the Netherlands, which sponsored me to come and work in Amsterdam. That’s how I ended up here, beginning a new chapter of exploring this part of the world.
 
-This blog is a place for me to dump my thoughts about all the topics I feel like sharing, including but not limited to career, software engineering, politics, social issues, travel, and religion.
+This blog is my little corner of the internet where I share my thoughts on topics that inspire me, including career, software engineering, politics, social issues, travel, and even religion.
 
-If you have a question or you want to talk or have advice or anything, feel free to send me an email or message me on any of my social media handles. I wish you well.
+If you’d like to connect, ask a question, or share advice, feel free to email me or reach out via social media. Thanks for stopping by, and I wish you all the best!
