@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I’m Ubaid Butt, the founder of this small blog you’ve stumbled upon.
 
-By profession, I’m a software engineer, but my interests span a wide range—economics, geopolitics, history, and social sciences. Yes, I know, it’s a bit all over the place, but who says we need to limit our curiosities? I love reading books and, as you can tell from this blog, I also have a passion for writing. 😄
+By profession, I’m a software engineer, but my interests span a wide range—economics, geopolitics, history, and social sciences. Yes, I know, it’s a bit all over the place, but who says we need to limit our curiosities? I love reading books and, as you can tell from this blog, I also have a passion for writing.
 
 I’m 27 years old, currently living and working in the Netherlands, but I’m originally from a small town called Sialkot in Pakistan. Fun fact: about 70% of the world’s footballs are manufactured and exported from Sialkot—pretty cool, right? Read more about this [here](https://www.businessinsider.com/most-of-the-worlds-soccer-balls-are-made-in-pakistan-2022-12?international=true&r=US&IR=T)
 
