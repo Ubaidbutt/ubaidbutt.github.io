@@ -4,14 +4,14 @@ title: "The why behind my goodbyes: Honest reasons behind my career changes"
 categories: [professional, career, personal]
 ---
 
-# Introduction
+## Introduction
 Goodbyes are never easy, especially for someone like me who forms deep emotional connections with the company, the product, and, most importantly, the people I work with. Perhaps it’s because I’ve always been fortunate to work with some very kind and supportive individuals.
 
 I started my career in 2018 and have resigned three times since then. Each instance has been a bittersweet and difficult phase to navigate. While the reasons for each change have varied, the process has consistently been a significant challenge for me.
 
 I am going to share the stories of my resignations, detailing what I was doing, why I decided to resign, and how each event unfolded.
 
-# AlphaBOLD
+## AlphaBOLD
 Just like your first love, your first company always holds a special place in your heart, and the same is true for me with AlphaBOLD. It was the company where I began my career, joining as a graduate engineer in a newly established AI and IoT department alongside just my engineering manager. AlphaBOLD, primarily a CRM consultancy, had launched the AI and IoT department to develop innovative products and tap into its existing enterprise customer base.
 
 During my nearly three years at AlphaBOLD, I wore many hats. I worked on everything from building PoCs to MVPs related to ML and IoT, demoing solutions to potential customers, writing blogs and arranging webinars, gathering feedback, iterating on those solutions, and eventually acquiring customers. It was a rollercoaster ride where I learned to navigate challenges independently—designing solutions, pitching them, building a team, and ultimately delivering products to customers.
@@ -28,7 +28,7 @@ These factors combined influenced my decision to start exploring opportunities, 
 
 Pakistan has a heavily services-oriented software economy, so there aren’t many good product companies to choose from. After applying to and interviewing with several companies, I finally secured an opportunity with a startup in Amsterdam. Resigning and transitioning out of my first job wasn’t a straightforward experience, especially since it was my first resignation and I had taken on significant responsibilities, including managing client projects. However, with the support of my manager and a smooth handover process, I was able to bid farewell to my first love and embark on an exciting new adventure.
 
-# Fashion Cloud
+## Fashion Cloud
 Let me start by saying that Fashion Cloud has been the best company I have worked for so far in my career, especially in terms of culture, people, and the overall atmosphere. Joining Fashion Cloud marked a significant turning point in my career—not only because I left a stable and comfortable job but also because I moved across continents to a completely different country and culture for the first time in my life. The initial days were challenging, filled with paperwork, house hunting in Amsterdam, and adjusting to a new country. However, the support and warmth of the team made the transition smooth and even enjoyable.
 
 Fashion Cloud is an e-commerce startup focused on the wholesale market for brands and retailers. I joined as a Fullstack Engineer on the Content Platform team, responsible for managing product features related to content sharing between brands and retailers, as well as providing third-party APIs for retailers to fetch content directly into their local systems. I had the privilege of working alongside some highly talented individuals I could look up to, and my engineering manager was a step ahead of even my previous one in terms of guidance and leadership.
@@ -41,7 +41,7 @@ During my year-end review with my manager, I realized that salary growth within 
 
 I had a few recruiters reach out to me on LinkedIn, and after going through some interviews, I landed an opportunity that met the criteria I was looking for. I must admit, resigning from Fashion Cloud was by far the hardest resignation of my career. If I hadn’t had such pressing responsibilities to support my family, I would never have made that decision—at least not for a couple more years. The team, and especially my manager, were incredibly understanding and supportive throughout the entire process. He recognized my reasons and, despite the early departure, made the transition as smooth as possible. The memories and lessons I gained at Fashion Cloud will stay with me forever.
 
-# DAZN
+## DAZN
 The experience of working at DAZN was truly remarkable because I was part of a big team of 12+ engineers, and every one of them was extremely talented—by far the most intelligent team I have worked with in my career. DAZN was an online sports streaming company; we used to call it the Netflix for sport. It had a presence in several countries, and each country had its own marketing teams that needed tools to design and publish their landing pages personalized for their respective regions. Our team was responsible for supporting the marketing teams in achieving their goals with an old legacy system while also designing and working on a completely new headless content management system.
 
 I worked with other backend engineers and architects to design a comprehensive system for creating, designing, and publishing landing pages using a headless CMS.  I thoroughly enjoyed the collaborative problem-solving and the challenge of engineering a content management system tailored to our needs. This role also gave me hands-on experience with Terraform and AWS, and I had the chance to learn from some of the best engineers in the industry. The team, the atmosphere, the culture, the learning, and the overall vibe were fantastic, making the year fly by in what felt like no time at all.
@@ -50,5 +50,5 @@ Things were looking really good until there was a complete overhaul in upper man
 
 The overall vibe of the company began to change. Half of my teammates from the original team resigned and moved to other companies. It felt like a bus on fire, with everyone waiting for their chance to jump off. Being on a work visa, I couldn’t afford the risk of being laid off, so I started searching for a new opportunity and eventually found one that seemed like a great next step. Unlike my previous resignations, this one felt more forced, as everyone knew it was coming—it was just a matter of time. The resignation process was straightforward, as half of my team had already left, and the rest were also saying their goodbyes and moving on to new adventures.
 
-# Conclusions
+## Conclusions
 Looking back, I feel incredibly fortunate to have worked with some of the most talented and supportive people throughout my career, which has always made the decision to resign a difficult one. However, as I continue to grow in my professional journey, I’ve come to understand that just like hiring, resignations are simply part of the process. What truly matters is approaching each opportunity with good intentions, giving your best effort, creating meaningful memories, and cherishing the experience while it lasts.
