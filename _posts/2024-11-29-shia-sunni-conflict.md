@@ -3,13 +3,14 @@ layout: post
 title: "My perspective on Shia-Sunni conflict in Islam"
 categories: [religion, islam, opinions]
 ---
-
+## Introduction
 The Shia-Sunni divide has been a centuries-long conflict or division among Muslims, dating back to the time of the Prophet Muhammad's death. Over the years, this conflict has grown and evolved into a regional issue, exacerbated by proxy wars involving Iran and Saudi Arabia. However, if you come from Pakistan, you would understand how deeply entrenched this division is in our society. Personally, I have witnessed family members expressing hatred and labeling Shia Muslims as Kafir. Although I cannot recall the events myself, my mother has recounted stories of actual fights between groups from the Shia and Wahhabi sects in our neighborhood during the early 2000s when I was a kid. Even to this day, we see sectarian fights and the deaths of countless people because of this conflict in Pakistan.
 
 After developing an interest in understanding Islam recently and witnessing all these Shia-Sunni arguments on Twitter in the month of Muharram, I decided to look into this conflict to make sense of it — not at a research level, but at least enough to form an educated opinion on the matter that divides millions of people worldwide.
 
 I am sharing my understanding and perspective on the history of this conflict and my conclusions after doing my own limited research, so please take it with a pinch of salt.
 
+## High level background of the conflict
 The first thing we need to understand is that the conflict itself is not about Islam, as it literally began after the death of the Prophet, implying that both sides genuinely believe in the Holy Book (Quran) and the teachings of the Prophet (Sunnah & Ahadees), which are the fundamental basis for being a Muslim.
 
 If both parties agree on the fundamentals of Islam, where does the divide come from? The basis of this divide lies in the understanding or belief about who was the rightful candidate to lead the Muslims after the death of the Prophet. Who was the rightful heir to the Muslim Ummah after the Prophet? One of the important points in this conflict is an incident that occurred shortly before the Prophet's death when he was ill. The crux of the incident is that the Prophet asked for a pen and paper, likely to write his final statement, but was prevented by Hazrat Umar and Hazrat Abu Bakr. Read more about the details of the incident [here](https://en.wikipedia.org/wiki/Hadith_of_pen_and_paper#:~:text=The%20hadith%20of%20pen%20and%20paper%20%28Arabic%3A%20%D8%AD%D8%AF%D9%8A%D8%AB,a%20Thursday%2C%20but%20was%20prevented%20from%20doing%20so.). Shia believe that the Prophet wanted to name Hazrat Ali as his successor but was prevented, whereas Sunni believe that the actions of Hazrat Umar and Hazrat Abu Bakr were out of care for the Prophet, as they did not want him to endure further suffering and assured him that they had the guidance of his book.
