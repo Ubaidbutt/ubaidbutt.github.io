@@ -3,7 +3,7 @@ layout: post
 title: "How I passed AWS Cloud practitioner certification exam"
 categories: [career, tech]
 ---
-I am writing this post after passing the AWS Cloud Practitioner exam to document how I prepared for it and what helped me clear it. Below are some points, in no particular order, explaining my motivation for the exam, my preparation, and some tips that helped me pass.
+I am writing this post after passing the AWS Cloud Practitioner exam to document my motivation, preparation and some tips that helped me clear the exam.
 
 ## Motivation
 I had been considering pursuing some AWS certifications as part of my yearly goals. Additionally, given the current dry job market, I felt that having extra credentials in the form of certifications would be a valuable way to enhance my marketability for the future. Most importantly, I wanted to deepen my understanding of the AWS ecosystem. Having worked with AWS for three years, I often felt there was something missing, and certifications seemed like a great way to assess my experience and knowledge of AWS while identifying areas for improvement moving forward. 
