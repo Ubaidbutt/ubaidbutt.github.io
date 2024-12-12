@@ -3,7 +3,7 @@ layout: post
 title: "My perspective on Shia-Sunni conflict in Islam"
 categories: [religion, islam, opinions]
 ---
-## Introduction
+## Introduction test
 The Shia-Sunni divide has been a centuries-long conflict or division among Muslims, dating back to the time of the Prophet Muhammad's death. Over the years, this conflict has grown and evolved into a regional issue, exacerbated by proxy wars involving Iran and Saudi Arabia. However, if you come from Pakistan, you would understand how deeply entrenched this division is in our society. Personally, I have witnessed family members expressing hatred and labeling Shia Muslims as Kafir. Although I cannot recall the events myself, my mother has recounted stories of actual fights between groups from the Shia and Wahhabi sects in our neighborhood during the early 2000s when I was a kid. Even to this day, we see sectarian fights and the deaths of countless people because of this conflict in Pakistan.
 
 After developing an interest in understanding Islam recently and witnessing all these Shia-Sunni arguments on Twitter in the month of Muharram, I decided to look into this conflict to make sense of it — not at a research level, but at least enough to form an educated opinion on the matter that divides millions of people worldwide.
