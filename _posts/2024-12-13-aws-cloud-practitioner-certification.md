@@ -3,7 +3,6 @@ layout: post
 title: "How I passed AWS Cloud practitioner certification exam"
 categories: [career, tech]
 ---
-
 I am writing this post after passing the AWS Cloud Practitioner exam to document how I prepared for it and what helped me clear it. Below are some points, in no particular order, explaining my motivation for the exam, my preparation, and some tips that helped me pass.
 
 ## Motivation
